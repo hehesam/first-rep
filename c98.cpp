@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<iostram>
 using namespace std;
 int main(){
@@ -7,3 +8,5 @@ int main(){
 
 	cout<< "i love panda"<<endl;
 }
+=======
+>>>>>>> parent of c682fcd (i wrote some code)
