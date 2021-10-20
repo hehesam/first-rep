@@ -4,4 +4,6 @@ int main(){
 
 	int a = 266;
 	cout << &a;
+
+	cout<< "i love panda"<<endl;
 }
